@@ -1,0 +1,16 @@
+---
+title: "Hello World - Final Project"
+author: "MICHELA COSTA BATISTA"
+date: "8/15/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
+
+```{r}
+print("Hello world, I'm using R")
+```
